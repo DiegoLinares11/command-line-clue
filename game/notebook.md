@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Gardener
-- [ ] The Librarian
+- [X] The Gardener
+- [X] The Librarian
 - [ ] The Clockmaker
 
 ## Weapons
 - [X] Garden Shears
 - [ ] Fountain Pen
-- [ ] Heavy Book
+- [X] Heavy Book
 
 ## Notes
 *Use this space to record your findings and deductions...*
