@@ -1,16 +1,9 @@
-# Detective's Notebook
+# Detective's deduction
 
-## Suspects
-- [X] The Gardener
-- [X] The Librarian
-- [ ] The Clockmaker
+I found the gardener and the librarian at the living room in the house so it could not be any of them. 
 
-## Weapons
-- [X] Garden Shears
-- [ ] Fountain Pen
-- [X] Heavy Book
+The heavy book at the cafe in the shops at the bakery and the Garden Shears was on the market at that time. 
 
-## Notes
-*Use this space to record your findings and deductions...*
+## Final conclusion
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+It was the Clocmaker with a fountain pen and it was in the metting rooms in the town hall
