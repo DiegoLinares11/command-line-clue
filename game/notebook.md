@@ -6,7 +6,7 @@
 - [ ] The Clockmaker
 
 ## Weapons
-- [ ] Garden Shears
+- [X] Garden Shears
 - [ ] Fountain Pen
 - [ ] Heavy Book
 
